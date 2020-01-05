@@ -1,0 +1,71 @@
+{  
+   "invetsment sector":[  
+      "real state",
+      "share market",
+      "transportation",
+      "educational institute",
+      "skill training institute",
+      "movies and songs",
+      "shopping mall and complex",
+      "hydropower",
+      "information technology"
+   ],
+   "tourism and hospitality":[  
+      "hotel and inn",
+      "resort",
+      "cafe and resturant"
+   ],
+   "animal husbandary":[  
+      "poultry",
+      "fish farmimg",
+      "cows and buffaloes",
+      "pig farming",
+      "sheep",
+      "beekeeping"
+   ],
+   "infrastructure":[  
+      "financial institution",
+      "commercial banks",
+      "development banks",
+      "finance companies",
+      "micro finance institution"
+   ],
+   "cottage industries":[  
+
+   ],
+   "personal service business":[  
+      "hair salon",
+      "beauty parlours",
+      "tailoring",
+      "driving training",
+      "readymade garments",
+      "shop"
+   ],
+   "retail business":[  
+
+   ],
+   "consultancy service":[  
+      "management",
+      "accounting",
+      "engineering",
+      "legal service",
+      "catering service",
+      "event organiser",
+      "health",
+      "mines and minerals",
+      "medical tourism",
+      "handcraft industries"
+   ],
+   "alternative energy":[  
+      "solar",
+      "wind",
+      "biomass"
+   ],
+   "agriculture":[  
+      "cash crops",
+      "fruits",
+      "medicinal herbs",
+      "vegetables",
+      "food grains"
+   ]
+}

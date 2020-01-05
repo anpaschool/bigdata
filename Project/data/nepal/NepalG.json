@@ -1,0 +1,7075 @@
+{  
+   "PN1":{  
+      "Bhojpur":{  
+         "Bhojpur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Shadanada MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Tyamke Maiyum RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Ram Prasad Rai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Arun RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "PauwaDungama RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Salpasilichho RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Aamchok RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "HatuwaGadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Dhankuta":{  
+         "Pakhribas MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Dhankuta MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Mahalaxmi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "SanguriGadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Khalsa Chhintaag RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Chhathat Jorpati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chaubise RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Ilam":{  
+         "Ilam MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Deumai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Mai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Suryodaya MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Phakaphokthum RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Chulachuli RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mai Jogmai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mangsebung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Rong RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sandakpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Jhapa":{  
+         "MechiNagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15"
+         ],
+         "Damak MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Kankai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bhadrapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Arjundhara MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "ShivaSataxi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Gauradaha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Birtamod MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Kamal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Gaurigunj RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Barhadashi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Jhapa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "BuddaShanti RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Haldibari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kanchankawal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Khotang":{  
+         "Halesi Tuwachung MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Rupakot Majhuwagadhi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15"
+         ],
+         "Aiselukharka RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Lamidanda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Jantedhunga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Morang":{  
+         "Biratnagar SMCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19"
+         ],
+         "Belbari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Letang MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Pathari-Sanishchare MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Rangeli MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Ratuwamai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Sunbarshi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Urlabari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "SundarHaraincha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "BudhiGanga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Dhanpalthan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Gramthan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Jahada RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Kanepokhari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Katahari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Kerabari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Miklajung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Okhaldhunga":{  
+         "SiddiCharan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Khiji Demba RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Champadevi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "ChishankhuGadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "ManeBhanjyang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Molung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Likhu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Sunkoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ]
+      },
+      "Panchthar":{  
+         "Phidim MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Phalelung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Palgunanda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Hilihang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Kummayak RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Miklajung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Tumbewa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Yangbarak":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Sankhauasabha":{  
+         "Chainpur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "DharmaDevi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Khadbari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Madi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "PanchKhapan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bhot Khola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chichila RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Makalu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sabhapokhari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Silingchong RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Solukhumbu":{  
+         "SoluDudhakund MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Dudhakoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Khumbu PasangLhamu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Dudhakaushika RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Necha Salyan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Maha Kulung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Likhu Pike RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sotang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Sunsari":{  
+         "Itahari SMCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20"
+         ],
+         "Dharan SMCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20"
+         ],
+         "Inaruwa MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Duhabi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Ramdhuni MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Baraha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Dewangunj RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Koshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Barju RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bhokraha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Harinagara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Taplejung":{  
+         "Phunling MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Aatharai Triveni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sidingawa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Phakatanglung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Mikwa Khola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Meringden RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Maiwa Khola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Yangbarak RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sirijunga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Terhathum":{  
+         "Myanglung MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Laligurans MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Aatharai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Chaathar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Phedap RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Menchayayem RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Udayapur":{  
+         "Katari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "ChaudandiGadhi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Triyuga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16"
+         ],
+         "Belaka MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Udayapur Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Tapli RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Rautamai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Sunkoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      }
+   },
+   "PN2":{  
+      "Saptari":{  
+         "Rajbiraj MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15"
+         ],
+         "Kanchanrup MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Dakneshwori MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "BodeBarsain MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16"
+         ],
+         "Khadak MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Shambhunath MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Surunga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "HanumanNagar Kankalini MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Krishna Sawaran RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chhinnamasta RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Mahadeva RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Saptkoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Tirhut RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tilathi Koiladi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Rupani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Belhi Chapani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bishnupura RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Parsa":{  
+         "Birgunu S_MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24",
+            "Ward 25",
+            "Ward 26",
+            "Ward 27"
+         ],
+         "Pokhariya MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Subarnapur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Jagarnathapur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dhobini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chhipahar Mai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Pakaha Mainpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bindabasini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bahudar Mai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Belawa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Parsa Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sakhuwa Prasouni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Paterwa Sugauli RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Bara":{  
+         "Kalaiya S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24",
+            "Ward 25",
+            "Ward 26",
+            "Ward 27"
+         ],
+         "Jitpur Simara S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23"
+         ],
+         "Kolhabi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Nijgadh MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Maha Gahdimai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Simraun Gadh MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Adarsha Kotwal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Karaiya Mai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Devtaal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "PachaRouta RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Parawanipur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Prasouni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Pheta RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Bara Gadhi":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Subarna RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Siraha":{  
+         "Lahan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24"
+         ],
+         "DhangadhiMai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Siraha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22"
+         ],
+         "GolBazaar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Mirchaiya MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Kalyanpur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Bhagawanpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Aaurahi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bishnupur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sukhipur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Karjanha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Bariyarpatti RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Laxmipur Patari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Naraha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sakhuwanankarkatti RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Arnama RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nawarajpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Dhanusha":{  
+         "Janakpur SMCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24"
+         ],
+         "Chhireshwarnath MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Ganeshman Charnath MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Dhanusadham MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Nagaraen Municipality":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Bideh MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Mithila MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Shahid Nagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Sabaila MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Kamala Siddidatri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Janak Nandini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bateshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Mithila Bihari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Mukhiyapatti Musaharmiya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Laxminiya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Hanspur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Aaurahi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Rautahat":{  
+         "Chandrapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Garuda MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Gaur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "BoudhiMai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Brindaban RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Devahi Gonahi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Durga Bhagawati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "GadhiMai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Gujara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Katahariya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Madhav Narayan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Moulapur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Phatuwa Bijayapur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Ishnath RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Paroha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Rajpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Mahottari":{  
+         "Jaleshwor MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Bardibas MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Gaushala MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Ekadara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Sonama RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Samsi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Loharpatti RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "RamGopalpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mahottari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Manara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Matihani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bhangara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Balawa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Pipara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Aaurahi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      }
+   },
+   "PN3":{  
+      "Bhaktapur":{  
+         "Changunarayan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bhaktapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Madhyapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Surya Binayak MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ]
+      },
+      "Chitwan":{  
+         "Bharatpur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24",
+            "Ward 25",
+            "Ward 26",
+            "Ward 27",
+            "Ward 28",
+            "Ward 29"
+         ],
+         "Kalika MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Khairhani MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Madi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Ratna Nagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16"
+         ],
+         "Ichchhakamana RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Dhading":{  
+         "Dhunibesi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Nilkantha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Khaniyabas RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Gajuri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Galchhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Ganga Jamuna RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Jwalamukhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Thakre RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Netrawati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Benighat Rorang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Rubi Valley RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sidda Lekh RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Tripur Sundari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Dolakha":{  
+         "Jiri MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bhimeshwor MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Kalinchok RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Gauri Shankar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Tamakoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Melung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Bigu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Baiteshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Shailung RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Kathmandu":{  
+         "Kathmandu MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24",
+            "Ward 25",
+            "Ward 26",
+            "Ward 27",
+            "Ward 28",
+            "Ward 29",
+            "Ward 30",
+            "Ward 31",
+            "Ward 32"
+         ],
+         "Kageswori-Manohara MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Kirtipur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Gokarneshwor MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Chandragiri MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15"
+         ],
+         "Tokha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15"
+         ],
+         "Tarkeshwor MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Daxinkali MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Nagarjun MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Budhanialkantha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Sankharapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Kavrepalanchok":{  
+         "Dhulikhel MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Banepa MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Panauti MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Panchkhal MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Namobuddha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Mandan Deupur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Khanikhola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Chaunri Deurali RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Temal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bethanchok RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bhumlu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Mahabharat RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Roshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ]
+      },
+      "Lalitpur":{  
+         "Lalitpur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24",
+            "Ward 25",
+            "Ward 26",
+            "Ward 27",
+            "Ward 28",
+            "Ward 29"
+         ],
+         "Godawari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "MahaLaxmi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Konjyosom RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bagmati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Mahankal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Makwanpur":{  
+         "Hetaunda S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19"
+         ],
+         "Thaha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Indra Sarobar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kailash RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Bakaiya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Bagmati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bhimphedi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Makawanpur Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Manahari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Raksirang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Nukuwot":{  
+         "Bidur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Belkot Gadhi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Kakani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Kispang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tadi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Tarkeshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dupcheshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "PanchaKanya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Likhu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Meghang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Shivpuri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Surya Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Ramechaap":{  
+         "Manthali MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Ramechhap MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Umakunda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "KhandaDevi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Gokul Ganga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Doramba RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Likhu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Sunapati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Rasuwa":{  
+         "Uttar Gaya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kalika RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "GosaiKunda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "NauKunda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "ParbatiKunda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Sindhuli":{  
+         "Kamalamai MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Dudhauli MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Golanjor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Ghyanglekh RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Teen Patan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Phikkal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Marin RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Sunkoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Hariharpur Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Sindupalchok":{  
+         "Chautara Sangachokgadhi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Barhabise MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Melamchi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Indrawati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Jugal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "PanchaPokhari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Balephi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Bhotekoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Lishankhu Pakhar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Sunkoshi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Helambu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "TripuraSundari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      }
+   },
+   "PN4":{  
+      "Baglung":{  
+         "Baglung MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Galkot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Jaimini MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Dhorpatan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Bareng RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kathe Khola":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Taman Khola":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Tara Khola":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nisi Khola":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Badi Gad":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ]
+      },
+      "Gorkha":{  
+         "Gorkha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Palungtar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Sulikot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Siranchok RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Ajirkot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Aarughat RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Gandaki RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Chumanubri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Dharche RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Bhimsen RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Shahid Lakhan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Kaski":{  
+         "Pokhara Lekhnath MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23",
+            "Ward 24",
+            "Ward 25",
+            "Ward 26",
+            "Ward 27",
+            "Ward 28",
+            "Ward 29",
+            "Ward 30",
+            "Ward 31",
+            "Ward 32",
+            "Ward 33"
+         ],
+         "Annapurna RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Machhapuchhre RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Madi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Rupa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Lamjung":{  
+         "Besishahar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Madhya Nepal MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Rainas MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Sundarbazar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Kabahola Sothar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Dhudh Pokhari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dordi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Marsyangdi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Manang":{  
+         "Chame RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nar Phu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nashong RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Nesyang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Mustang":{  
+         "Gharpajhong RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Thasang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Dalome RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Lomanthang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Barha Gaun Muktichhetra RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Myagdi":{  
+         "Beni MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Annapurna RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Dhawalagiri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Mangala RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Malika RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Raghu Ganga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Parbat":{  
+         "Kushma MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Phalebas MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Jaljala RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Painyoo RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Maha Shila RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Modi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Bihadi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Syangja":{  
+         "Galyang MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11"
+         ],
+         "Chapakot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Putalibazar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Bhirkot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Waling MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Arjun Chaupari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Andhi Khola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Kali Gandaki RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Phedi Khola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Biruwa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Harinas RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Tanahun":{  
+         "Bhanu MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13"
+         ],
+         "Bhimad MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Byas MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Sukla Gandaki MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Aanbu Khaireni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Rishing RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Ghiring RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Devghat RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Myagde RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Bandipur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      }
+   },
+   "PN5":{  
+      "Arghakhanchi":{  
+         "Sandhikharka MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Shit Ganga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14"
+         ],
+         "Bhumikasthan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10"
+         ],
+         "Chhatra Dev RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Panini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Malarani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Banke":{  
+         "Nepalgunj S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15",
+            "Ward 16",
+            "Ward 17",
+            "Ward 18",
+            "Ward 19",
+            "Ward 20",
+            "Ward 21",
+            "Ward 22",
+            "Ward 23"
+         ],
+         "Kohalpur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12",
+            "Ward 13",
+            "Ward 14",
+            "Ward 15"
+         ],
+         "Narainapur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Raptisonari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Baijanath RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Khajura RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Duduwa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Janaki RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Bardiya":{  
+         "Gulariya MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Maduvan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9",
+            "Ward 10",
+            "Ward 11",
+            "Ward 12"
+         ],
+         "Rajapur Taratal MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Thakura Baba MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bansgadhi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bar Bardiya MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Badhaiya Tal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Geruwa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Dang":{  
+         "Tulsipur S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Ghorahi S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Lamahi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Banglachuli RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Dangi Sharan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Gadhawa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Rajpur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Rapti RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Shanti Nagar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Babai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Eastern_Rukum":{  
+         "Musikot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Chaujahari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Aathabiskot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Putha Uttar Ganga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Bhume RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Sisne RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Barphikot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Triveni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ],
+         "Sani Bheri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8"
+         ]
+      },
+      "Gulmi":{  
+         "Musikot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Resunga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Isma RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Kali Gandaki RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Gulmi Durbar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Satyawati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chandrakot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dhurkot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Madane RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Malika RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Kapilvastu":{  
+         "Kapilbastu MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Buddabhumi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Shivaraj MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Maharajganj MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Krishna Nagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Banganga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mayadevi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Yashodhara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Suddodhana RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bijay Nagar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Palpa":{  
+         "Rampur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tansen MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nisdi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Purba Khola RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Rambha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Matha Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tinau RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bagnaskali RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Ribdikot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Raina Devi Chhahara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Pyuthan":{  
+         "Pyuthan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Swargadeari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Gaumukhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Mandavi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sarumarani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Mallarani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nau Bahini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Jhimmaruk RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Eairabati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Rolpa":{  
+         "Rolpa MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Triveni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Dui Kholi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Madi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Runti Gadhi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Lungri RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sukidaha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sunchhahari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Subarnawati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Thawang RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Rupandehi":{  
+         "Butwal S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Devdaha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Lumbini Sanskritik MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Siddharthanagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Saina Maina MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tilottama MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Gaidahawa RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kanchan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kotahi Mai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Marchawari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Mayadevi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Om Satiya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Rohini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sammarai Mai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Siyari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Suddodhana RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      }
+   },
+   "PN6":{  
+      "Dailekh":{  
+         "Narayan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dullu MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chamunda Bindrasaini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Aathabis MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bhagawati Mai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Gurans RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dungeshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Naumule RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mahabu RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bairavi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Thantikandh RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Dolpa":{  
+         "Thuli Bheri MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Tripur Sundari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dolpo Buddha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "She-Phoksundo RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Jagadulla RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mudke CHula Gaun RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Kaieke RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chharka Tongsong RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Humla":{  
+         "Simkot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Namkha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kharpu Nath":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sarkegad RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chankheli RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Adanchuli RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tanjakot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Jajarkot":{  
+         "Bheri MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Chhedagad MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Triveni Nalgad MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Kuse RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Junichande RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Barekot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Shivalaya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Jumla":{  
+         "Chandannath MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kanaka Sundari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sinja RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Hima RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tila RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Guthichaur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tatopani RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Patarasi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Kalikot":{  
+         "Khandachakra MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Raskot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Tila Gupha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Pachal Jharana RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Sanni Triveni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Narhari Nath RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Kalika RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Mahawai RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ],
+         "Palata RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7"
+         ]
+      },
+      "Mugu":{  
+         "Chhaya Nath Rara MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Mugumakarmarong RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Soru RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ],
+         "Khatyad RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6",
+            "Ward 7",
+            "Ward 8",
+            "Ward 9"
+         ]
+      },
+      "Salyan":{  
+         "Sharada MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bagchaur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bangad Kupinde MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kalimati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Triveni RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kapurkot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chhareshwori RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Dhorchaur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kumakha Malika RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Darma RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Surkhet":{  
+         "BirendraNagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bheri ganga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Gurbhakot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Panchapuri MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Lek Besi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chaukune RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Barahatal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chingad RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Simta RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      }
+   },
+   "PN7":{  
+      "Achham":{  
+         "Mangalsen MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sanfebagar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Kamalbazar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Panchdeval Binayak MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Chourpati RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Mellekh RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Bannigadhi Jayagadh RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "RamRoshan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dhakari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Turmakhand RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Baitadi":{  
+         "Dasharath CHanda MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Patan MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Melauli MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Purchaudi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Surnaiya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Sigas RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Shivanath RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Pancheshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dogada Kedar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ],
+         "Dilasaini RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5",
+            "Ward 6"
+         ]
+      },
+      "Bajhang":{  
+         "Jaya Prithivi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bungal MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Talkot RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Masta RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Khaptadchhanna RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Thalara RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bithadchir RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Surma RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chhabis Pathibhera RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Durgathali RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kedarsyun RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kanda RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Bajura":{  
+         "Badi Malika MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Triveni MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Budhi Ganga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Budhi Nanda MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Gaumul RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Pandav Gupha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "SwamiKartik RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chhededaha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Himali RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Dadeldhura":{  
+         "Amargadhi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Parashuram MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Aalitaal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bhageshwor RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Nabadurga RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Ajaymeru RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Ganyapdhura RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Darchula":{  
+         "Mahakali MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Silya Shikhar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Malikarjun RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Api Himal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Duhun RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Naugad RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Marma RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Lekam RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Byans RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Doti":{  
+         "Dipayal-Silgadi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Shikhar MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Purbi Chouki RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Badikedar RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Jorayal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Sayal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Aadarsha RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "K.I Singh RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bogtan RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Kailali":{  
+         "Dhangadhi S-MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Tikapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Ghodaghodi MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Lamki-Chuha MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bhajani MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Godavari MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Gauri Ganga MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Janaki RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bardogoriya RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Mohanyal RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Kailari RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Joshipur RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Chure RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      },
+      "Kanchanpur":{  
+         "Bhimdatta MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Punarbas MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Bedkot MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Mahakali MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Shuklaphanta MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Belauri MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Krishnapur MCP":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Beldandi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ],
+         "Laljhadi RM":[  
+            "Ward 1",
+            "Ward 2",
+            "Ward 3",
+            "Ward 4",
+            "Ward 5"
+         ]
+      }
+   }
+}
